@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TailorChirag
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chirag Tailor.
+- 👀 I’m interested in Software Develpment.
+- 🌱 I’m currently learning Spring and Spring Boot.
+- 🏸 I also love to badmintion.
+- 📫 You can reach me via : vermachirag4254@gmail.com
 
 <!---
 TailorChirag/TailorChirag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
